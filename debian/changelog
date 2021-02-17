@@ -1,0 +1,69 @@
+lightdm-gtk-greeter-mx21 (21.02.01) mx; urgency=medium
+
+  * branch off of mx19 config
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 17 Feb 2021 18:05:38 -0500
+
+lightdm-gtk-greeter-mx19 (20.12.01) mx; urgency=medium
+
+  * adjust multiple keyboard layout handling in lightdm-session
+
+ -- fehlix <fehlix@mxlinux.org>  Sun, 20 Dec 2020 16:52:19 -0400
+
+lightdm-gtk-greeter-mx19 (20.10.02) mx; urgency=medium
+
+  * remove phantom processes 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 10 Oct 2020 13:59:44 -0400
+
+lightdm-gtk-greeter-mx19 (20.03.01) mx; urgency=medium
+
+  * update control file 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Mar 2020 22:20:41 -0400
+
+lightdm-gtk-greeter-mx19 (20.01.02) mx; urgency=medium
+
+  * change theme
+  * move session box 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 03 Feb 2020 22:52:57 -0500
+
+lightdm-gtk-greeter-mx19 (20.01.01) mx; urgency=medium
+
+  * mx19.1 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 28 Jan 2020 19:07:11 -0500
+
+lightdm-gtk-greeter-mx19 (19.10.2) mx; urgency=medium
+
+  * attempt to remove lightdm login screen on sysVinit shutdowns and reboots 
+  * vt change prior to lightdm shutdown 
+  
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 06 Oct 2019 22:19:30 -0400
+
+lightdm-gtk-greeter-mx19 (19.09.01) mx; urgency=medium
+
+  * update art
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 05 Sep 2019 17:58:52 -0400
+
+lightdm-gtk-greeter-mx19 (19.08.01) mx; urgency=medium
+
+  * added clock to panel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 20 Aug 2019 22:27:26 -0400
+
+lightdm-gtk-greeter-mx19 (19.02.03) mx; urgency=medium
+
+  * modified install locations and changed dropped version number from 02_MX.conf 
+  * applied fix for at-spi bus
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 03 Aug 2019 12:00:38 -0400
+
+lightdm-gtk-greeter-mx19 (19.02.01) mx; urgency=medium
+
+  * initial fork of lightdm-gtk-greeter-mx17
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 16 Feb 2019 10:30:12 -0500
