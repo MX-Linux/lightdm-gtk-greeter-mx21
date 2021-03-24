@@ -1,3 +1,9 @@
+lightdm-gtk-greeter-mx21 (21.03.01) mx; urgency=medium
+
+  * accountservice adjustments 
+
+ -- fehlix <fehlix@mxlinux.org>  Tue, 23 Mar 2021 17:13:14 -0400
+
 lightdm-gtk-greeter-mx21 (21.02.01) mx; urgency=medium
 
   * branch off of mx19 config
