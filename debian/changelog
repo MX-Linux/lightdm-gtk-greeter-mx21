@@ -1,3 +1,9 @@
+lightdm-gtk-greeter-mx21 (21.08.01) mx; urgency=medium
+
+  * use honesty for default 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Aug 2021 18:38:26 -0400
+
 lightdm-gtk-greeter-mx21 (21.03.01) mx; urgency=medium
 
   * accountservice adjustments 
