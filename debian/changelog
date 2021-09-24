@@ -1,3 +1,9 @@
+lightdm-gtk-greeter-mx21 (21.09.01) mx; urgency=medium
+
+  * honesty-muted as default 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 23 Sep 2021 22:56:31 -0400
+
 lightdm-gtk-greeter-mx21 (21.08.01) mx; urgency=medium
 
   * use honesty for default 
