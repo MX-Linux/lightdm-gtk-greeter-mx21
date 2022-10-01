@@ -1,3 +1,9 @@
+lightdm-gtk-greeter-mx21 (22.10.01) mx; urgency=medium
+
+  * quit killing processes at logout/session lock
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 01 Oct 2022 18:39:59 -0400
+
 lightdm-gtk-greeter-mx21 (21.09.01) mx; urgency=medium
 
   * honesty-muted as default 
